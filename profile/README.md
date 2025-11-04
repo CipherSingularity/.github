@@ -16,7 +16,8 @@
 
 We build real-world, open-source projects that push the boundaries of intelligent systems from predictive analytics to generative AI.
 
-[Explore Projects](#-featured-projects) • [Join Us](#-get-involved) • [Contribute](#-how-to-contribute)
+![GitHub Org's stars](https://img.shields.io/github/stars/CipherSingularity?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/CipherSingularity?label=Followers&style=for-the-badge)
 
 </div>
 
@@ -24,8 +25,11 @@ We build real-world, open-source projects that push the boundaries of intelligen
 
 ### ⭐ Star our repositories if you find them useful!
 
-**Made with ❤️ by the [ARUNAGIRNATHAN](ARUNAGIRINATHAN-K), for the community**
+**Made by [@ARUNAGIRNATHAN](https://github.com/ARUNAGIRINATHAN-K)**
 
 *Let's shape the future of AI together* 🚀
 
 </div>
+
+
+
